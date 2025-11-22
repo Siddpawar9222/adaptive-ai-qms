@@ -2,7 +2,7 @@ name: Build & Upload Spring Boot to S3
 
 on:
   push:
-    branches: [ "siddhesh_test" ]
+    branches: [ "" ]
 
 jobs:
   build:
